@@ -1,4 +1,4 @@
-const CLIENT_ID = 'y8Sn475WeCnx1LLFkBg9WkEBkV8yPeZ6bgIhw8ZV';
+const CLIENT_ID = 'Q2N4qU49awNvJKRhtcZaJauaxsDhDEtXuKPzYxfo';
 const REDIRECT_URI = 'https://isaacmsl.github.io/cliente_suap_javascript/';
 const SUAP_URL = 'https://suap.ifrn.edu.br';
 const SCOPE = 'identificacao email documentos_pessoais';
